@@ -276,6 +276,30 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>macro</string>
+			<key>scope</key>
+			<string>entity.name.function.preprocessor.cpp</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#179db6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>serial</string>
+			<key>scope</key>
+			<string>variable.other.object.access.cpp</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#D35D45</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
